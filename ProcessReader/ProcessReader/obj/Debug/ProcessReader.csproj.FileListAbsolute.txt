@@ -1,0 +1,6 @@
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\bin\Debug\ProcessReader.exe.config
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\bin\Debug\ProcessReader.exe
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\bin\Debug\ProcessReader.pdb
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\obj\Debug\ProcessReader.csprojResolveAssemblyReference.cache
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\obj\Debug\ProcessReader.exe
+Z:\Home\git\BachelorThesisExampleApplication\ProcessReader\ProcessReader\obj\Debug\ProcessReader.pdb

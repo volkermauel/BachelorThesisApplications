@@ -1,0 +1,5 @@
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Debug\Server.exe.config
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Debug\Server.exe
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Debug\Server.pdb
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Debug\Server.exe
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Debug\Server.pdb

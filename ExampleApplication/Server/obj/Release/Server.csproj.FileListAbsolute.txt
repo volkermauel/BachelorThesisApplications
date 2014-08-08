@@ -1,0 +1,12 @@
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.exe.config
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.exe
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.pdb
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.exe
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.pdb
+C:\Users\Volker\Documents\Git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.exe.config
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.exe
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.pdb
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.exe
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\bin\Release\Server.pdb
+Z:\Home\git\BachelorThesisExampleApplication\ExampleApplication\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
